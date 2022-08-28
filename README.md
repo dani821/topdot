@@ -1,17 +1,17 @@
 ## Installations
 
 ### Requriements
-```json
+```
 php version >= 8.1
 ```
 
 ### Clone
-```json
+```
 git clone git@github.com:dani821/topdot.git 
 ```
 
 ### Install Composer
-```json
+```
 composer install 
 ```
 
